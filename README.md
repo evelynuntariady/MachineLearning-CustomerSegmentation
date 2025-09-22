@@ -16,6 +16,7 @@ Insights :
 2. Provided interpretation of clusters for actionable business use
 
 The analysis identified 3 key customer segments:
+
 Cluster 1: At-Risk / Low Satisfaction Customers
 a. Few or no dependents, lowest referrals, lowest satisfaction scores
 b. Low total refunds → may indicate silent dissatisfaction
